@@ -1,9 +1,14 @@
 # Counternator
 Javascript scroll-activated counter.
 
-Make sure to use this: <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+Borrowed code from these CodePens:
+http://codepen.io/benske/pen/yJoqz
+http://codepen.io/shivasurya/pen/FatiB
 
-And this for more easing options: <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+Make sure to use JQuery! "https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"
+
+And this for more easing options. "https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"
 
 Default Counter:
 <span class="revealOnScroll" countto="500" counterduration="3000" countereasing="linear" counterdelay="500">0</span>
